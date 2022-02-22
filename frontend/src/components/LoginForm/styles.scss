@@ -1,0 +1,9 @@
+.ant-btn-primary {
+    background-color: #999;
+    border-color: #999;
+    
+    &:hover {
+        background-color: transparent;
+        color: #999;
+    }
+}
